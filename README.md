@@ -62,8 +62,7 @@ This list is a working reference for both. Curated for use in authorised engagem
 | **AutoRecon** | nmap → service-specific enumeration (nikto, gobuster, smbmap, enum4linux, …) | [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) |
 | **nmapAutomator** | Layered nmap scan (Quick → Full → UDP → Vulns → Recon) | [21y4d/nmapAutomator](https://github.com/21y4d/nmapAutomator) |
 | **NetExec (nxc)** | SMB/LDAP/MSSQL/WinRM/RDP/SSH/FTP/WMI exploitation modules | [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) |
-| **nmap2nxc** *(your own)* | nmap → NetExec module pipeline, multi-protocol, Kerberos/PtH support | [gpheheise/auto_nxc](https://github.com/gpheheise/auto_nxc) |
-| **nmap2testssl** *(your own)* | nmap → testssl.sh pipeline | [gpheheise/nmap2testssl](https://github.com/gpheheise/nmap2testssl) |
+|
 
 ### Active Directory
 
